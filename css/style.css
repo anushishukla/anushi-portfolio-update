@@ -22027,3 +22027,7 @@ h3.white_prt:after {
     height: 70px;
     border-radius: 50%;
 }
+p.project_paraa {
+    padding-bottom: 0;
+    margin-bottom: 6px;
+}
